@@ -8,9 +8,6 @@
 * 🧠  I'm learning ...
 * 🤝  I'm open to collaborating on exciting projects as a full stack developer.
 
-<a href="https://www.github.com/MingYeu" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/danielcranney?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 <p align="left">
